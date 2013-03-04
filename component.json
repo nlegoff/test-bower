@@ -10,6 +10,7 @@
     "angular-scenario": "~1.0.5",
     "angular-ui": "~0.4.0",
     "underscore": "~1.4.4",
-    "modernizr": "~2.6.2"
+    "modernizr": "~2.6.2",
+    "normalize-css": "~2.1.0"
   }
 }
