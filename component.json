@@ -3,6 +3,6 @@
   "version": "0.1",
   "dependencies": {
     "jquery": "~1.8.3",
-    "bootstrap-switch": "git@github.com:nostalgiaz/bootstrap-switch.git"
+    "bootstrap-switch": "https://github.com/nostalgiaz/bootstrap-switch.git"
   }
 }
